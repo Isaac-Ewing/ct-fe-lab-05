@@ -2,8 +2,10 @@
 
 exports[`App component renders App 1`] = `
 <DocumentFragment>
-  <h1>
-    Hello World
-  </h1>
+  <button
+    aria-label="Get a Simpsons quote"
+  >
+    Get a Simpsons quote
+  </button>
 </DocumentFragment>
 `;
